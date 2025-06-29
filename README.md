@@ -17,7 +17,7 @@ This project was generated using AI as a creative partner. While the initial str
 
 ## 🚀 Live Preview
 
-🌐 [Check it out on Netlify](https://scintillating-dragon-6eeba8.netlify.app)
+🌐 [Check it out on Netlify](https://moonlit-sunburst-6c04b0.netlify.app/)
 
 ---
 
