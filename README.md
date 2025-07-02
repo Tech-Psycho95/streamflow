@@ -9,8 +9,8 @@ It features responsive design, hover animations, and a sleek layout—built usin
 
 This project was generated using AI as a creative partner. While the initial structure was AI-assisted, I handled:
 - Styling refinements
-- Poster interactions and hover effects
-- Asset management and troubleshooting disappearing tokens
+- Broken links of Posters and errors occuring during it's making
+- Troubleshooting in mobile version
 - Custom deployment on Netlify
 
 ---
