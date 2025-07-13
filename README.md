@@ -23,7 +23,7 @@ This project was generated using AI as a creative partner. While the initial str
 
 ## ⚙️ Tech Stack used in this are :-
 
-- React
+- Typescript
 - Tailwind CSS
 - Netlify (Deployment)
 - Git & GitHub (Version Control)
