@@ -17,7 +17,7 @@ This project was generated using AI as a creative partner. While the initial str
 
 ## 🚀 Live Preview
 
-🌐 ![Netlify](https://img.shields.io/badge/Netlify-Streamflow?style=flat&logo=Netlify&labelColor=white&link=https%3A%2F%2Fmoonlit-sunburst-6c04b0.netlify.app%2F)
+🌐 [![Netlify](https://img.shields.io/badge/Netlify-Streamflow?style=flat&logo=Netlify&labelColor=white)](https://moonlit-sunburst-6c04b0.netlify.app/)
 
 ---
 
