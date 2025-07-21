@@ -40,3 +40,7 @@ This project was generated using AI as a creative partner. While the initial str
 ## 📫 Feedback or Ideas?
 
 I’m open to thoughts, feature suggestions, or collaboration opportunities. Let’s connect!
+
+---
+
+<div align="center"> <p>🎨 Built with creativity in <a href="https://bolt.new/">bolt ✨</a></p></div>
