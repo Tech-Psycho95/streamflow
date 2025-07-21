@@ -43,4 +43,4 @@ I’m open to thoughts, feature suggestions, or collaboration opportunities. Let
 
 ---
 
-<div align="center"> <p>🎨 Built with creativity in <a href="https://bolt.new/">bolt ✨</a></p></div>
+<div align="center"> <p>🎨 Built with creativity in <a href="https://bolt.new/">bolt</a> ✨</p></div>
